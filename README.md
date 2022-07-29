@@ -1,2 +1,3 @@
 # surya-project
-all simple projects are coded by me
+all sample programs are coded by me.
+           thanking you...
